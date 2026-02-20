@@ -1,5 +1,8 @@
 # InstantTranslator
 
+<img width="517" height="586" alt="Screenshot 2026-02-20 at 14 22 10" src="https://github.com/user-attachments/assets/883673d4-87e2-4bf1-96e2-b965cc8bba6b" />
+<img width="307" height="324" alt="Screenshot 2026-02-20 at 14 22 57" src="https://github.com/user-attachments/assets/67c9a54f-48c4-47ba-920d-2843119e1dd6" />
+
 A lightweight macOS menu bar app that instantly translates selected text or fixes grammar using Claude AI.
 
 Select any text, press a shortcut, and the translation replaces your selection in-place. No copy-pasting, no switching apps.
