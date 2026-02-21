@@ -1,13 +1,15 @@
 # InstantTranslator
 
-<img width="517" height="586" alt="Screenshot 2026-02-20 at 14 22 10" src="https://github.com/user-attachments/assets/883673d4-87e2-4bf1-96e2-b965cc8bba6b" />
-<img width="307" height="324" alt="Screenshot 2026-02-20 at 14 22 57" src="https://github.com/user-attachments/assets/67c9a54f-48c4-47ba-920d-2843119e1dd6" />
+https://github.com/user-attachments/assets/005f94c7-b8b8-4977-883d-f5888ac81843
 
 A lightweight macOS menu bar app that instantly translates selected text or fixes grammar using Claude AI.
 
 Select any text, press a shortcut, and the translation replaces your selection in-place. No copy-pasting, no switching apps.
 
 ## Features
+
+<img width="517" height="586" alt="Screenshot 2026-02-20 at 14 22 10" src="https://github.com/user-attachments/assets/883673d4-87e2-4bf1-96e2-b965cc8bba6b" />
+<img width="307" height="324" alt="Screenshot 2026-02-20 at 14 22 57" src="https://github.com/user-attachments/assets/67c9a54f-48c4-47ba-920d-2843119e1dd6" />
 
 - **Instant Translation** &mdash; Select text anywhere, press `⌥⇧T`, and it gets translated and pasted back automatically
 - **Grammar Fix** &mdash; Press `⌥⇧G` to fix grammar and spelling in selected text
